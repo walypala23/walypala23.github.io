@@ -1,8 +1,4 @@
-- name: GitHub
-  url: http://github.com/noinceneritore
-  class: icon-github
-  title: Website host
-  
+
 - name: Instagram
   url: http://instagram.com/
   class: icon-instagram
@@ -22,6 +18,11 @@
   url: https://chat.whatsapp.com/GDuXfFKm6CbGIMt93XQUR1
   class: icon-whatsapp
   title: ""
+  
+- name: GitHub
+  url: http://github.com/noinceneritore
+  class: icon-github
+  title: Website host
  
 
 # - name: YouTube
