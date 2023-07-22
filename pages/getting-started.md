@@ -1,11 +1,11 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Try to change the steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title               : "Chi siamo"
+subheadline         : "Comitato No Inceneritore"
+teaser              : "Vi spieghiamo chi siamo"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "comune_20230718.jpg"
 permalink           : "/getting-started/"
 ---
 1. Open `_config.yml` and work it through, it's well documented.

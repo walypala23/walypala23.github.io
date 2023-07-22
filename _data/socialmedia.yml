@@ -1,36 +1,47 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/noinceneritore
   class: icon-github
-  title: Code und mehr...
+  title: Website host
+  
+- name: Instagram
+  url: http://instagram.com/
+  class: icon-instagram
+  title: ""
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Facebook
+  url: https://www.facebook.com/profile.php?id=100093588904965
+  class: icon-facebook
+  title: ""
+  
+- name: Telegram
+  url: https://t.me/+TVtV6OCIbCYxZTlk
+  class: icon-telegram
+  title: ""
+  
+- name: Whatsapp
+  url: https://chat.whatsapp.com/GDuXfFKm6CbGIMt93XQUR1
+  class: icon-whatsapp
+  title: ""
+ 
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+  #class: icon-youtube
+  #title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Twitter
+  #url: http://twitter.com/phlow
+  #class: icon-twitter
+  #title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+#- name: Mixcloud
+  #url: http://www.mixcloud.com/phlow/
+  #class: icon-cloud
+  #title: "Mixe, was sonst?"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest

@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'No Inceneritore'
+title: 'NO Inceneritore Spilimbergo'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Spilimbergo'
+slogan: 'NO Inceneritore'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'se cambio qui funziona?'
+description: 'Gruppo attivo contro il progetto del nuovo impianto di incenerimento di Riufiti Speciali Pericolosi'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: walypala23
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -30,7 +30,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,11 +38,11 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://walypala.github.io/walypala23.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: #"logo.png"
 
 # Plugins
 plugins:
@@ -91,7 +91,7 @@ compress_html:
   endings: all
   profile: false
   ignore:
-    envs: [development]
+  envs: [development]
 
 
 #
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: walypala23     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: walypala23     # Default author for posts
 
 
 
@@ -192,8 +192,10 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    instagram : noinceneritore
+    facebook  : noinceneritore
+    telegram  :
+    github    : noinceneritore
 
 
 #        ____  _
